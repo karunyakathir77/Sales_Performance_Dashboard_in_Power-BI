@@ -1,10 +1,15 @@
 # Sales Performance using Power BI
-## About
-The dashboard aims to help stakeholders gain actionable insights into sales trends, customer behaviour, and regional performance. It enables detailed exploration using slicers across time periods, segments, product categories, and locations.
+## Objective
+In this project, the Power BI dashboard aims to help stakeholders gain actionable insights into sales trends, customer behaviour, and regional performance. It enables detailed exploration using slicers across time periods, segments, product categories, and locations.
 ## Dataset
 - Source: kaggle.com
 - Size: approx. 1000 records
-- Included: Order/Customer/Product IDs, Order/Ship Dates, Segment/Category/Sub-Category/Products, Region/Country/State/City, Sales/Quantity/Profit.
+- Key Fields:
+    - Order/Customer/Product IDs
+    - Order/Ship Dates
+    - Segment/Category/Sub-Category/Products
+    - Region/Country/State/City
+    - Sales/Quantity/Profit.
 ## Analysis
 - Leveraged DAX functions to create date hierarchies (Year, Quarter)
 - Visualized sales and profit trends over period.
